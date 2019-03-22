@@ -1,0 +1,1 @@
+transform.position=Vector3.Lerp(fromPosition,toPosition,time);
